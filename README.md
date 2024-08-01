@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="![Screenshot (136)](https://github.com/user-attachments/assets/dd2a353d-77e1-42cc-acfc-881b4878befa)
+">
 <h1 align="center">Hi 👋, I'm Shahe Alam </h1>
 <h2 align="center">A Passionate and Aspiring Developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
