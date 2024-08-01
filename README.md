@@ -1,4 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/c9/dc/d2/c9dcd239dd469719706a2f41ac6e65f4.png)](https://rishavchanda.io)
+<div align="center">
+  <img src ="https://i.pinimg.com/originals/c9/dc/d2/c9dcd239dd469719706a2f41ac6e65f4.png" />
+  
+</div>
+
+ <br/>
 <h1 align="center">Hi 👋, I'm Shahe Alam </h1>
 <h2 align="center">A Passionate and Aspiring Developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
