@@ -1,4 +1,10 @@
-
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>I am John Doe</h1>
+    <p>And I'm a Photographer</p>
+    <button>Hire me</button>
+  </div>
+</div>
 <h1 align="center">Hi 👋, I'm Shahe Alam </h1>
 <h2 align="center">A Passionate and Aspiring Developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
