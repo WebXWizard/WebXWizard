@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/564x/b2/c2/56/b2c2564d7f5ad67962bccf7858704bc3.jpg" width="800" height="300">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/564x/b2/c2/56/b2c2564d7f5ad67962bccf7858704bc3.jpg" width="1000" height="500">
 <h1 align="center">Hi 👋, I'm Shahe Alam </h1>
 <h2 align="center">A Passionate and Aspiring Developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
