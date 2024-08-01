@@ -1,16 +1,4 @@
-<div class="banner">
-  <div>
-    <h1>Welcome to the site</h1>
-    <h5>Sign up for free today</h5>
-    <button>Get started</button>
-  </div>  
-</div>
-<style>
-.banner {
-    /* The image used */
-    background-image:url();
-  }
-</style>
+
 <h1 align="center">Hi 👋, I'm Shahe Alam </h1>
 <h2 align="center">A Passionate and Aspiring Developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
