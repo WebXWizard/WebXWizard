@@ -1,9 +1,4 @@
-<div align="center">
-  <img src ="https://i.pinimg.com/564x/0e/be/46/0ebe4613b7a2a598fcad5e14a7f69dc6.jpg" />
-  
-</div>
 
- <br/>
 <h1 align="center">Hi 👋, I'm Shahe Alam </h1>
 <h2 align="center">A Passionate and Aspiring Developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
