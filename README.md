@@ -1,4 +1,5 @@
-
+<div class=font-[sans-serif]>
+  
 <h1 align="center">Hi 👋, I'm Shahe Alam </h1>
 <h2 align="center">A Passionate and Aspiring Developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -28,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webxwizard&show_icons=true&locale=en" alt="webxwizard" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webxwizard&" alt="webxwizard" /></p>
+
+</div>
