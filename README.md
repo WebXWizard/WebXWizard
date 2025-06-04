@@ -1,4 +1,4 @@
-<div class=font-[sans-serif]>
+<div class="font-[sans-serif]">
   
 <h1 align="center">Hi 👋, I'm Shahe Alam </h1>
 <h2 align="center">A Passionate and Aspiring Developer from India</h2>
