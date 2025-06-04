@@ -1,4 +1,4 @@
-<div class="font-[sans-serif]">
+<div  style="font-family: sans-serif;">
   <h1 align="center">Hi 👋, I'm Shahe Alam</h1>
   <h2 align="center">A Passionate and Aspiring Developer from India</h2>
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
