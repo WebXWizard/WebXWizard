@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1000x250.png?text=Hi+👋,+I'm+Shahe+Alam" alt="Shahe Alam Banner" />
+</p>
+
 <!-- Wrap whole README in a div with font-family -->
 <div style="font-family: Arial, Helvetica, sans-serif;">
 
