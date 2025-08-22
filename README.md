@@ -1,8 +1,7 @@
-
-👋 Hi, I’m Ayushman - A Passionate and Aspiring Developer from India
-
 <img align="right" alt="Coding" width="400" 
      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+
+👋 Hi, I’m Ayushman - A Passionate and Aspiring Developer from India
 
 👀 I’m interested in Coding
 
