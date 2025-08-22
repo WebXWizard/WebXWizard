@@ -4,9 +4,11 @@
 
      
 
-👋 Hi, I’m Ayushman - A Passionate and Aspiring Developer from India
+👋 Hi, I’m Shahe Alam - A Passionate and Aspiring Developer from India
 
 👀 I’m interested in Coding
+
+💬 Ask me about <strong>DSA and MERN</strong>
 
 🌱 I’m currently learning Web Dev and DSA
 
