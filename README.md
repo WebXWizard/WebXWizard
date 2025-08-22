@@ -36,24 +36,6 @@
     <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
   
-  <a href="https://www.leetcode.com/webxwizard" target="blank"> 
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-         alt="webxwizard" height="30" width="40" /> 
-  </a> 
-
-   <a href="https://www.youtube.com/c/svggamers2m" target="blank"> 
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
-         alt="svggamers2m" height="30" width="40" /> 
-  </a> 
-
-   <a href="https://instagram.com/your_alam_1432" target="blank"> 
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="your_alam_1432" height="30" width="40" /> 
-  </a> 
-  
 </div>
 
 <div>
@@ -88,6 +70,13 @@
   ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
   
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+     <a href="https://instagram.com/your_alam_1432" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_alam_1432" height="30" width="40" /> </a> 
+     <a href="https://www.youtube.com/c/svggamers2m" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="svggamers2m" height="30" width="40" /> </a>
+     <a href="https://www.leetcode.com/webxwizard" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="webxwizard" height="30" width="40" /> </a> 
+</p>
 
 
 
