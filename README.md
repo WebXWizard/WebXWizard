@@ -8,12 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=webxwizard&label=Profile%20views&color=0e75b6&style=flat" alt="webxwizard" />
   <img src="https://img.shields.io/github/followers/WebXWizard?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 </p>
-<p align="center">
-  <img width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer coding" />
-  <img width="340" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="developer working" />
-</p>
 
 ## About Me 👨‍💻
+<img align="right" alt="Developer coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 | Focus | Details |
 |---|---|
