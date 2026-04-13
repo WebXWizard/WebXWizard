@@ -1,78 +1,88 @@
+﻿<h1 align="center">Shahe Alam (WebXWizard)</h1>
+<p align="center"><strong>DevOps and Full-Stack Developer</strong> | Building cloud-ready MERN and automation projects</p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webxwizard&label=Profile%20views&color=0e75b6&style=flat" alt="webxwizard" /> </p>
-
-     
-
-👋 Hi, I’m Shahe Alam - A Passionate and Aspiring Developer from India
-
-👀 I’m interested in Coding
-
-💬 Ask me about <strong>DSA and MERN</strong>
-
-🌱 I’m currently learning Web Dev and DSA
-
-📫 How to reach me - alamshahe9044@gmail.com
-
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=webxwizard&label=Profile%20views&color=0e75b6&style=flat" 
-       alt="webxwizard" /> 
-</p> 
-
-<div>
-
-<h1>GitHub Stats:</h1>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WebXWizard&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" /></a>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebXWizard&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebXWizard&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5)
-
-<h1>Socials:</h1>
-  
-  <a href="https://www.linkedin.com/in/shahe-alam-6a552b320/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://github.com/WebXWizard">
-    <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-  </a>
-  
-</div>
-
-<div>
-
-<h1>Tech Stack:</h1>
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%#06B6D4)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%#000000)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-  
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-     <a href="https://instagram.com/your_alam_1432" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_alam_1432" height="30" width="40" /> </a> 
-     <a href="https://www.youtube.com/c/svggamers2m" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="svggamers2m" height="30" width="40" /> </a>
-     <a href="https://www.leetcode.com/webxwizard" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="webxwizard" height="30" width="40" /> </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=webxwizard&label=Profile%20views&color=0e75b6&style=flat" alt="webxwizard" />
+  <img src="https://img.shields.io/github/followers/WebXWizard?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 </p>
 
+## About Me
 
+| Focus | Details |
+|---|---|
+| Name | Shahe Alam |
+| Role | Aspiring DevOps and MERN Developer |
+| Interests | Cloud, CI/CD, automation, scalable web apps |
+| Learning | Advanced DevOps workflows, DSA, system design |
+| Contact | `alamshahe9044@gmail.com` |
 
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shahe-alam-6a552b320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/WebXWizard">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/webXwizard_143/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.leetcode.com/webxwizard">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WebXWizard&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=WebXWizard&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebXWizard&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WebXWizard&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+## Skill Snapshot
+
+| Domain | Focus Chart |
+|---|---|
+| DevOps and Cloud | `#########-` 90% |
+| Backend (Node.js, Express, APIs) | `########--` 80% |
+| Frontend (React, Tailwind, JS) | `#######---` 70% |
+| DSA and Problem Solving | `#######---` 70% |
+
+## Featured From Portfolio
+
+Source reviewed from: [devops-portfolio-kappa.vercel.app](https://devops-portfolio-kappa.vercel.app/) (synced on April 13, 2026)
+
+| Project | Area | Stack | Links |
+|---|---|---|---|
+| AWS MERN CI/CD Project | CI/CD + Deployment | AWS, MERN, pipelines | [Repo](https://github.com/WebXWizard/AWS_MERN-CI_CD-Project) |
+| Terraform AWS Infrastructure | IaC | Terraform, AWS | [Repo](https://github.com/WebXWizard/Terraform-AWS-Infrastructure) |
+| Kubernetes Prometheus Grafana | Monitoring + Orchestration | Kubernetes, Prometheus, Grafana | [Repo](https://github.com/WebXWizard/Kubernetes-Prometheus-Grafana) |
+| AADITYA HUB | Client/Web Platform | Web stack | [Repo](https://github.com/WebXWizard/AADITYA-HUB) · [Live](https://www.aadityaacomputer.com/) |
+| FitHub Landing Page | Frontend | React, UI | [Repo](https://github.com/WebXWizard/FITHUB-LANDING-PAGE/tree/main) · [Live](https://fithub-landing-page.vercel.app/) |
+| DIY Innovators | Major Project | Full-stack | [Repo](https://github.com/WebXWizard/MAJOR-DIY_Innovators) |
+| Minor Project | Academic/Practice | Web development | [Repo](https://github.com/WebXWizard/MINOR) |
+
+## Tech Stack
+
+| Category | Tools |
+|---|---|
+| Cloud and DevOps | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
+| Backend | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
+## References
+
+- Portfolio: [https://devops-portfolio-kappa.vercel.app/](https://devops-portfolio-kappa.vercel.app/)
+- GitHub Stats Card: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- Streak Stats: [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- Activity Graph: [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
