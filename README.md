@@ -1,4 +1,7 @@
-﻿<h1 align="center">Shahe Alam (WebXWizard)</h1>
+﻿<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:36BCF7&height=130&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=28&fontColor=ffffff&animation=twinkling" alt="animated header" />
+</p>
+<h1 align="center">Shahe Alam (WebXWizard)</h1>
 <p align="center"><strong>DevOps and Full-Stack Developer</strong> | Building cloud-ready MERN and automation projects</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=200&color=0E75B6&center=true&vCenter=true&width=900&lines=------------------------------------------------------------;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>;<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" alt="animated divider" />
@@ -111,6 +114,7 @@ Source reviewed from: [devops-portfolio-kappa.vercel.app](https://devops-portfol
 - Streak Stats: [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - Activity Graph: [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 - Trophy Cards: [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0E75B6&height=100&section=footer&animation=twinkling" alt="animated footer" />
+</p>
 
