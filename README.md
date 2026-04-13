@@ -8,6 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=webxwizard&label=Profile%20views&color=0e75b6&style=flat" alt="webxwizard" />
   <img src="https://img.shields.io/github/followers/WebXWizard?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Internship%20%26%20Entry%20Roles-0E75B6?style=flat-square" alt="Open to roles" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Cloud%20%7C%20MERN-0E75B6?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-India-0E75B6?style=flat-square" alt="Location" />
+</p>
 
 ## About Me 👨‍💻
 <img align="right" alt="Developer coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -64,6 +69,12 @@
 | Frontend (React, Tailwind, JS) | `#######---` 70% |
 | DSA and Problem Solving | `#######---` 70% |
 
+## Achievement Highlights 🏆
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WebXWizard&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+</p>
+
 ## Featured From Portfolio 🚀
 
 Source reviewed from: [devops-portfolio-kappa.vercel.app](https://devops-portfolio-kappa.vercel.app/) (synced on April 13, 2026)
@@ -87,12 +98,19 @@ Source reviewed from: [devops-portfolio-kappa.vercel.app](https://devops-portfol
 | Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
 | Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
+## Let's Build Together 🤝
+
+- Open to collaborating on DevOps, cloud automation, and full-stack projects.
+- Interested in internship and entry-level opportunities where I can contribute to real production systems.
+- Best way to reach me: `alamshahe9044@gmail.com`
+
 ## References 📚
 
 - Portfolio: [https://devops-portfolio-kappa.vercel.app/](https://devops-portfolio-kappa.vercel.app/)
 - GitHub Stats Card: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Streak Stats: [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - Activity Graph: [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- Trophy Cards: [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
