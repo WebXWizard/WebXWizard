@@ -8,8 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=webxwizard&label=Profile%20views&color=0e75b6&style=flat" alt="webxwizard" />
   <img src="https://img.shields.io/github/followers/WebXWizard?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 </p>
+<p align="center">
+  <img width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer coding" />
+  <img width="340" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="developer working" />
+</p>
 
-## About Me
+## About Me 👨‍💻
 
 | Focus | Details |
 |---|---|
@@ -19,7 +23,7 @@
 | Learning | Advanced DevOps workflows, DSA, system design |
 | Contact | `alamshahe9044@gmail.com` |
 
-## Connect
+## Connect 🔗
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shahe-alam-6a552b320/">
@@ -36,7 +40,7 @@
   </a>
 </p>
 
-## GitHub Analytics
+## GitHub Analytics 📊
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=WebXWizard&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
@@ -54,7 +58,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2400&pause=250&color=36BCF7&center=true&vCenter=true&width=900&lines=~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>;<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" alt="animated transition" />
 </p>
 
-## Skill Snapshot
+## Skill Snapshot 🧠
 
 | Domain | Focus Chart |
 |---|---|
@@ -63,7 +67,7 @@
 | Frontend (React, Tailwind, JS) | `#######---` 70% |
 | DSA and Problem Solving | `#######---` 70% |
 
-## Featured From Portfolio
+## Featured From Portfolio 🚀
 
 Source reviewed from: [devops-portfolio-kappa.vercel.app](https://devops-portfolio-kappa.vercel.app/) (synced on April 13, 2026)
 
@@ -77,7 +81,7 @@ Source reviewed from: [devops-portfolio-kappa.vercel.app](https://devops-portfol
 | DIY Innovators | Major Project | Full-stack | [Repo](https://github.com/WebXWizard/MAJOR-DIY_Innovators) |
 | Minor Project | Academic/Practice | Web development | [Repo](https://github.com/WebXWizard/MINOR) |
 
-## Tech Stack
+## Tech Stack 🛠️
 
 | Category | Tools |
 |---|---|
@@ -86,7 +90,7 @@ Source reviewed from: [devops-portfolio-kappa.vercel.app](https://devops-portfol
 | Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
 | Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
-## References
+## References 📚
 
 - Portfolio: [https://devops-portfolio-kappa.vercel.app/](https://devops-portfolio-kappa.vercel.app/)
 - GitHub Stats Card: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
