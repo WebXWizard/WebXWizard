@@ -59,6 +59,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WebXWizard&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WebXWizard&theme=tokyonight" alt="Profile details summary chart" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WebXWizard&theme=tokyonight" alt="Repos per language chart" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WebXWizard&theme=tokyonight" alt="Most commit language chart" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=14&duration=2400&pause=250&color=36BCF7&center=true&vCenter=true&width=900&lines=~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>;<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" alt="animated transition" />
 </p>
@@ -71,6 +81,39 @@
 | Backend (Node.js, Express, APIs) | `########--` 80% |
 | Frontend (React, Tailwind, JS) | `#######---` 70% |
 | DSA and Problem Solving | `#######---` 70% |
+
+## DevOps Delivery Chart ⚙️
+
+```mermaid
+flowchart LR
+  A[Plan] --> B[Code]
+  B --> C[Build]
+  C --> D[Test]
+  D --> E[Containerize]
+  E --> F[Deploy]
+  F --> G[Monitor]
+  G --> A
+```
+
+## Learning Roadmap 📌
+
+| Track | Current Focus | Practice Output | Status |
+|---|---|---|---|
+| Cloud | AWS services, IAM, EC2, deployment patterns | Cloud-hosted MERN apps | `In Progress` |
+| Infrastructure as Code | Terraform modules and reusable configs | AWS infrastructure templates | `Building` |
+| Containers | Docker images, Compose, Kubernetes basics | App containerization labs | `Active` |
+| Monitoring | Prometheus, Grafana, alerts | Cluster monitoring dashboards | `Active` |
+| Problem Solving | DSA patterns and LeetCode practice | Consistent coding practice | `Growing` |
+
+## Project Focus Matrix 🧭
+
+| Project Type | Main Goal | Tools Used | What It Shows |
+|---|---|---|---|
+| CI/CD Projects | Automate build and deployment | GitHub Actions, Jenkins, AWS | Release pipeline mindset |
+| Infrastructure Projects | Provision repeatable cloud resources | Terraform, AWS | DevOps foundation |
+| Monitoring Projects | Track service health and performance | Kubernetes, Prometheus, Grafana | Production awareness |
+| MERN Apps | Build full-stack web products | MongoDB, Express, React, Node.js | End-to-end development |
+| Frontend Builds | Create polished web interfaces | React, TailwindCSS, JavaScript | UI implementation |
 
 ## Achievement Highlights 🏆
 
@@ -113,6 +156,7 @@ Source reviewed from: [devops-portfolio-kappa.vercel.app](https://devops-portfol
 - GitHub Stats Card: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Streak Stats: [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - Activity Graph: [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- Summary Cards: [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 - Trophy Cards: [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0E75B6&height=100&section=footer&animation=twinkling" alt="animated footer" />
